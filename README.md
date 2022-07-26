@@ -1,4 +1,11 @@
 
+this prject frok from https://github.com/metacraft-labs/languist for fix compile issue 
+
+
+# goals
+* convert python big project with dynamic analisis to nim
+
+
 # languist
 
 Languist is a framework for analysis of both the static and the run-time properties of programs written in a growing list of supported dynamically typed programming languages. It also supports refactoring/rewriting and helps for generating idiomatic high level code.
